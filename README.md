@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Kuanysh04
+- 👀 I’m interested in gamedev
